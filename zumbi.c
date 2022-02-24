@@ -14,6 +14,7 @@ int main()
 		printf("Process children!");
 		exit(0);
 	} else {//parent process
+		system("ps -l");
 		sleep(10);
 	}
 	return 0;
