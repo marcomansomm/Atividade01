@@ -1,18 +1,28 @@
+# Makefile
+
 ## Clone Project
 
 ```bash
-$ git clone https://github.com/MichaelBittencourt/MakefileExamples.git
-$ cd MakefileExamples
+$ git clone https://github.com/marcomansomm/Atividade01.git
 ```
-## Running
+
+## Make
 
 ```bash
 $ make
-$ ./hello
+$ gcc zumbi -o bin 
+```
+
+## Running
+
+```bash
+$ make run
+$ ./zumbi
 ```
 
 ## Cleaning
 
 ```bash
 $ make clean
+$ rm bin
 ```
