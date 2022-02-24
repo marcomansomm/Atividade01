@@ -1,26 +1,26 @@
 # Makefile
 
-## Clone Project
+### Clone Project
 
 ```bash
 $ git clone https://github.com/marcomansomm/Atividade01.git
 ```
 
-## Make
+### Make
 
 ```bash
 $ make
 $ gcc zumbi -o bin 
 ```
 
-## Running
+### Running
 
 ```bash
 $ make run
 $ ./zumbi
 ```
 
-## Cleaning
+### Cleaning
 
 ```bash
 $ make clean
